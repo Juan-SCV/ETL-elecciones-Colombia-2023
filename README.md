@@ -91,4 +91,4 @@ Con nuestro sistema completo, podremos realizar la analitica de negocio dentro d
 
 A continuacion encuentra el como se ejecuto la realizacion del ETL.
 
-![Diagrama de Procesos](./Diagrama de procesos ETL.jpg "Diagrama de Procesos")
+![Diagrama de Procesos](/Diagrama%20de%20procesos%20ETL.jpg "Diagrama de Procesos")
