@@ -4,10 +4,10 @@
 
 Se requiere tener instalados los siguientes programas:
 
-- Excel
-- MySQL
-- Pentaho
-- PowerBI
+- [Excel](https://www.microsoft.com/es-co/microsoft-365/excel)
+- [MySQL](https://www.mysql.com/)
+- [Pentaho](https://www.hitachivantara.com/es-latam/products/pentaho-platform/data-integration-analytics.html)
+- [PowerBI](https://www.microsoft.com/es-es/power-platform/products/power-bi/)
 
 ## Busqueda Dataset
 
@@ -92,3 +92,10 @@ Con nuestro sistema completo, podremos realizar la analitica de negocio dentro d
 A continuacion encuentra el como se ejecuto la realizacion del ETL.
 
 ![Diagrama de Procesos](/Diagrama%20de%20procesos%20ETL.jpg "Diagrama de Procesos")
+
+## Realizado por:
+- [Juan Sebastian Cano Valencia](https://github.com/Juan-SCV)
+- [Juan Esteban Cardona Arango](https://github.com/Cardona-JE)
+- [Felipe Alexander Muñoz Parra](https://github.com/Alex-M-P)
+- [Juan Sebastian Rios Valencia](https://github.com/Juansecod)
+- [Sergio Vargas Marin](https://github.com/sergiova123)
