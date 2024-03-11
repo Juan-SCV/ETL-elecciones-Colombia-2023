@@ -86,3 +86,9 @@ Ya una vez completada la creacion y configuracion de las transformaciones, podre
 Con nuestro sistema completo, podremos realizar la analitica de negocio dentro de PowerBI realizando la conexion.
 
 >***Nota:*** Se puede encontrar un dashboard en el archivo `dashboard.pbix`
+
+## Diagrama de procesos
+
+A continuacion encuentra el como se ejecuto la realizacion del ETL.
+
+![Diagrama de Procesos](./Diagrama de procesos ETL.jpg "Diagrama de Procesos")
