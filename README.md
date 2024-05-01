@@ -93,7 +93,8 @@ A continuacion encuentra el como se ejecuto la realizacion del ETL.
 
 ![Diagrama de Procesos](/Diagrama%20de%20procesos%20ETL.jpg "Diagrama de Procesos")
 
-## Realizado por:
+## Realizado por
+
 - [Juan Sebastian Cano Valencia](https://github.com/Juan-SCV)
 - [Juan Esteban Cardona Arango](https://github.com/Cardona-JE)
 - [Felipe Alexander Muñoz Parra](https://github.com/Alex-M-P)
